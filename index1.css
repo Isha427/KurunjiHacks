@@ -42,7 +42,7 @@
     color: #293754;
     margin-left: 100px;
     margin-top: 80px;
-    max-width: 45%;
+    max-width: 35%;
     }
     .content h1{
     font-size: 60px;
@@ -93,13 +93,21 @@
     .loginN:hover,.loginV:hover{
     transform: scale(1.1);
     }
-    .div2,.div3,.div4{
+    .div1,.div2,.div3,.div4{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
     height: 500px ;
     width: 100%;
     }
+    .image1{
+        background-image: url(Volunteering.gif);
+        background-size: auto;
+        background-repeat: no-repeat;
+        height: 100%;
+        width: 40%;
+        background-position: center;
+        }
     .image2{
     background-image: url(https://thumbs.dreamstime.com/b/shopping-help-elderly-couple-face-masks-receiving-bag-groceries-vector-illustration-flat-cartoon-style-201668632.jpg);
     background-size: auto;

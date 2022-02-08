@@ -38,14 +38,14 @@
         width: 100px;
         height: 30px;
     }
-    .image2,.image3,.image4{
+    .image1,.image2,.image3,.image4{
         background-size: 150%;
 
     }
-    .content2,.content3,.content4{
+    .content,.content2,.content3,.content4{
         max-width: 45%;
     }
-    .div2,.div3,.div4{
+    .div1,.div2,.div3,.div4{
         height: 325px;
 
     }
@@ -162,7 +162,7 @@
     .loginN{
         margin-left: 15px;
     }
-    .div2,.div3,.div4{
+    .div1,.div2,.div3,.div4{
         flex-direction: column;
         height: 510px;
     }
@@ -170,7 +170,7 @@
         flex-direction: column-reverse;
         height: 500px;
     }
-    .content2, .content3, .content4 {
+    .content,.content2, .content3, .content4 {
         max-width: 85%;
         padding-bottom: 50px;
         border-bottom: 6px double gray;
@@ -186,7 +186,7 @@
         align-items: center;
         
     }
-     .image2,.image3,.image4{
+    .image1,.image2,.image3,.image4{
          
         background-size: cover;
         width: 70%;

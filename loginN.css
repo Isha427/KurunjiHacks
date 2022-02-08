@@ -119,9 +119,9 @@ form.sign-in-form {
   justify-content: center;
   align-items: center;
   margin: 0 0.45rem;
-  color: #333;
+  color: #fff;
   border-radius: 50%;
-  border: 1px solid #333;
+  border: 1px solid #fff;
   text-decoration: none;
   font-size: 1.1rem;
   transition: 0.3s;
@@ -132,14 +132,15 @@ form.sign-in-form {
   border-color: #293754;
 }
 
+
 .btn {
   width: 150px;
   background-color: #293754;
-  border: none;
+  border:1px solid #293754;
   outline: none;
   height: 49px;
   border-radius: 49px;
-  color: #fff;
+  color:#aaa ;
   text-transform: uppercase;
   font-weight: 600;
   margin: 10px 0;
@@ -149,6 +150,7 @@ form.sign-in-form {
 
 .btn:hover {
   background-color: #293754;
+  color: #fff;
 }
 .panels-container {
   position: absolute;
